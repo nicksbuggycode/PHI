@@ -11,4 +11,4 @@ if submit:
     st.write(" ")
     st.write("Here is some standard text that can be inserted wherever in the output: The patient was seen at xyz facility for abc indication")
     st.write(f"I feel {first}, Therefore {second}, In summary {third}")
-    print('have a nice day')
+    print('have a nice day noah')
